@@ -33,5 +33,4 @@ public class Arrays_Sort_Colour {
             arr[k]=2;
         }
     }
-    
 }
